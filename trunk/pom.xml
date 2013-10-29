@@ -5,6 +5,9 @@
 	<artifactId>http-client-helper</artifactId>
 	<version>1.0.0</version>
 	<name>HttpClientHelper</name>
+	<build>
+		<sourceDirectory>src</sourceDirectory>
+	</build>
 	
 	<dependencies>
 		<dependency>
@@ -17,6 +20,7 @@
 			<artifactId>commons-lang</artifactId>
 			<version>2.6</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>jaxen</groupId>
 			<artifactId>jaxen</artifactId>
