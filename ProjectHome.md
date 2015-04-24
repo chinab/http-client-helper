@@ -1,0 +1,1 @@
+很方便的httpclient，使用xml配置cookies与请求参数
